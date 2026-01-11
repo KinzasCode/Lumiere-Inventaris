@@ -1,2 +1,2 @@
 # Lumiere-Inventaris
-Website Inventaris
+Website Inventaris QR Code
